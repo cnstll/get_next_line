@@ -1,0 +1,6 @@
+*.txt
+*main*
+*.gch
+a.out
+test_main
+test_file
